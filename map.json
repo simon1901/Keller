@@ -31,13 +31,13 @@
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 309, 309, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":8,
          "id":12,
-         "name":"exit_lyon",
+         "name":"ZumHaus",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Geburtstagsfeier_3\/map.json#VomKeller"
+                 "value":"..\/Geburtstagsfeier_1\/map.json#VomKeller"
                 }],
          "type":"tilelayer",
          "visible":true,
