@@ -52,7 +52,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":10,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":10,
          "x":0,
          "y":0
@@ -113,6 +113,12 @@
  "nextlayerid":14,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"exitSceneUrl",
+         "type":"string",
+         "value":"..\/Geburtstagsfeier_1\/map.json#VomKeller"
+        }],
  "renderorder":"right-down",
  "tiledversion":"2020.12.18",
  "tileheight":32,
